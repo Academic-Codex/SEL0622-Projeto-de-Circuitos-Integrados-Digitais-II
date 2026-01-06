@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://Academic-Codex.github.io/SEL0622-Projeto-de-Circuitos-Integrados-Digitais-II">
-    <img src=".github/readme/hero.svg?v=2026-01-06T02:57:49.638469Z" width="100%" alt="Access the course website" />
+    <img src=".github/readme/hero.svg?v=2026-01-06T14:27:07.855494Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
